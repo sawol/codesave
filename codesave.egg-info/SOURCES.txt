@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+codesave/__init__.py
+codesave/main.py
+codesave.egg-info/PKG-INFO
+codesave.egg-info/SOURCES.txt
+codesave.egg-info/dependency_links.txt
+codesave.egg-info/not-zip-safe
+codesave.egg-info/requires.txt
+codesave.egg-info/top_level.txt

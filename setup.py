@@ -8,7 +8,7 @@ setup(
     author_email        = 'sawol634@gmail.com',
     url                 = 'https://github.com/sawol/codesave/',
     download_url        = '',
-    install_requires    =  [selenium, requests, lxml, bs4, re, github],
+    install_requires    =  ['beautifulsoup4', 'requests', 'lxml', 'selenium', 'github'],
     packages            = find_packages(),
     python_requires     = '>=3',
     package_data        = {},
