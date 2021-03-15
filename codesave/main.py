@@ -7,7 +7,6 @@
 import sys
 
 from selenium import webdriver
-import pyperclip
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions    import NoSuchWindowException
 from selenium.common.exceptions    import WebDriverException
