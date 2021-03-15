@@ -6,6 +6,9 @@
 pip install py-codesave==0.0.3
 pip install py_codesave
 ```
+# 주의사항
+사용하는 브라우저에 맞는 webdriver를 설치해야합니다.
+경로는 py_codesave를 사용하는 py 파일과 동일해야합니다.
 
 # 사용방법
 ### 패키지 불러오기
