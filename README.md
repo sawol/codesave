@@ -25,6 +25,6 @@ main.help()
 ### 실행
 ```python
 main.run('boj', '토큰값', 'repository이름')
-# 예시 - 사이트는 'boj' 레포지토리의 이름은 'test'라면,
+# 예시 - 사이트는 'boj' 포지토리의 이름은 'test'라면,
 # main.run('boj', '토큰값', 'sawol/test')
 ```
