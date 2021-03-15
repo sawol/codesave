@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
  
 setup(
-    name                = 'codesave',
+    name                = 'py_codesave',
     version             = '0.0.1',
     description         = 'Save the code automatically.',
     author              = 'sawol',
-    author_email        = 'sawol634@gmail.com',
-    url                 = 'https://github.com/sawol/codesave/',
+    author_email        = 'sawol634' '@' 'gmail.com',
+    url                 = 'https://github.com/sawol/py_codesave/',
     download_url        = '',
     install_requires    =  ['beautifulsoup4', 'requests', 'lxml', 'selenium', 'github'],
     packages            = find_packages(),
